@@ -28,7 +28,7 @@ def search():
 
         # Define the font and size
         font = ImageFont.load_default()
-        text = "IRONMAN"
+        text = "KING"
 
         # Calculate text size and position
         bbox = draw.textbbox((0, 0), text, font=font)
