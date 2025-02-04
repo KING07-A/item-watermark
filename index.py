@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return jsonify({"message": "Craftland API is running on Vercel!"})
+    return jsonify({"message": "I AM KING! = https://t.me/KING_7_A"})
 
 @app.route("/search", methods=["GET"])
 def search():
